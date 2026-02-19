@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Данные ЭКГ
+ecgiddb_data/
+
+# Wheel-файлы
+wheels/
+*.whl
+
+# Результаты
+cardiac_analysis_result.png
+
+# Система
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
