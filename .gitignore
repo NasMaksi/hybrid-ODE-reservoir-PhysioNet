@@ -12,7 +12,7 @@ __pycache__/
 *.pyc
 
 # Данные ЭКГ
-ecgiddb_data/
+#ecgiddb_data/
 
 # Wheel-файлы
 wheels/
